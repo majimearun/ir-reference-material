@@ -1,6 +1,6 @@
 # Lucene Tutorial: Getting Started
 
-The code is an updated version version of the [Tutorialspoint article](https://www.tutorialspoint.com/lucene/lucene_first_application.htm). The one linked in the article is outdated, as it uses lucene 3.6.2, which is not available anymore. The code in this repository uses lucene 9.9.2, so I have made the necessary changes to make it work with the latest version of lucene.
+The code is an updated version version of the [Tutorialspoint article](https://www.tutorialspoint.com/lucene/lucene_first_application.htm). The one linked in the article is outdated, as it uses lucene 3.6.2, which is extremely old. The code in this repository uses lucene 9.9.2, so I have made the necessary changes to make it work with the latest version of lucene.
 
 ## Installtion and setup
 
