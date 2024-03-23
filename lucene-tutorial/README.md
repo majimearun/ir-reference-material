@@ -18,3 +18,5 @@ The code is an updated version version of the [Tutorialspoint article](https://w
 ### Testing
 
 1. Initially run the `LuceneTester.java` file. If everything is set up properly, it should index the files and search for files containing the word "Ben Stiller".
+
+2. Make any changes as per the [documentation](https://lucene.apache.org/core/9_9_2/core/index.html) and test them out similarly. If you have any doubts feel free to reach out to me. As long as it is not directly an answer to the assignment (after the assignment is out), I will be happy to help.
