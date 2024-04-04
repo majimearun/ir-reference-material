@@ -6,7 +6,7 @@ The code is an updated version version of the [Tutorialspoint article](https://w
 
 1. Install JAVA and make sure it is in your PATH. If you are unsure about choosing which JAVA version, OpenJDK, Amazon Corretto or Oracle SE all are good options. While testing is this worked properly I used [Oracle SE 20](https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html).
 
-2. Download the 9.9.2 version of [Lucene](https://archive.apache.org/dist/lucene/java/9.9.2/lucene-9.9.2-src.tgz). Extract the downloaded file to a location of your choice.
+2. Download the 9.9.2 version of [Lucene](https://archive.apache.org/dist/lucene/java/9.9.2/lucene-9.9.2.tgz). Extract the downloaded file to a location of your choice.
 
 3. Install the recommended JAVA extension pack for VSCode.
 
